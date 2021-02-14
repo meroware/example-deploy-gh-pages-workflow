@@ -1,8 +1,8 @@
 name: CI
 on:
   push:
-    branches-ignore:
-      - main
+    # branches-ignore:
+    #   - main
 jobs:
   ci:
     runs-on: ubuntu-latest
