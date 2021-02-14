@@ -9,6 +9,7 @@
     "lint": "eslint --ext .js ./",
     "lint:fix": "eslint --fix --ext .js ./"
   },
+  "homepage": "/example-deploy-gh-pages-workflow/",
   "dependencies": {
     "date-fns": "^2.11.1",
     "gray-matter": "^4.0.2",
